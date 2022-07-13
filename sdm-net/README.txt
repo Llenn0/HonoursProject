@@ -4,7 +4,7 @@ Thanks for taking the time to look at the codebase for my Honours Project! If yo
 - The iNat dataset is not included as it would greatly increase the size of the submitted folder, and because I do not have permission to redistribute it.
 - When you want to run an experiment, please create a folder following this structure:
 
-E.g. To generate a synthetic dataset using the 'mini' format with 1000 classes, create the folder 'synth_data_1000_mini' under the 'synth_data' folder. For a 'full' dataset, replace mini with full. The same can be done with iNat. This is to prevent the code from throwing an error when a target folder doesn't exist.
+E.g. To generate a synthetic dataset using the 'mini' format with 1000 classes, create the folder 'synth_data_1000_mini' under the 'synth_data' folder. For a 'full' dataset, replace mini with full. The same can be done with iNat. In the GitHub uploaded version the synth_data, inat_data and inat_2021_data folders are not present at all because they are usually empty and cannot be uploaded that way.
 
 Once the folder exists, you can run the code with the INIT_SYNTH or INIT_INAT settings, and the generated data will be sent to the relevant folder.
 
