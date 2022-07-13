@@ -1,4 +1,4 @@
-Thanks for taking the time to look at the codebase for my Honours Project! If you plan on actually running the code, there are a few things to take note of.
+Thanks for taking the time to look at the codebase for my Honours Project! If you plan on actually running the code, there are a few things to take note of as this code was not designed to be run outside of my personal environment and mostly exists to generate the various figures shown in my dissertation and allow me to quickly adjust hyperparameters.
 
 - The transfer learning script has been removed, as the majority of it was previously written by my supervisor with some edits from me to feed in the neural network features.
 - The iNat dataset is not included as it would greatly increase the size of the submitted folder, and because I do not have permission to redistribute it.
