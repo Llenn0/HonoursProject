@@ -1,3 +1,3 @@
 # Honours Project - Learning Location Embeddings from Species Distribution Models
 
-This is my final-year dissertation and it's corresponding codebase for reference.
+This is my final-year Honours Project, a major undertaking of my final undergraduate year 2021-2022 at the University of Edinburgh. The repository includes the codebase and associated dissertation titled 'Learning Location Embeddings from Species Distribution Models'. If you would like to download and run the code yourself, please read the README.txt file which provides some advice for getting everything set up. If you are interested in a more in-depth introduction to the topic, feel free to read my dissertation itself!
